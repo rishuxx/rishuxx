@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishuxx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in SEGS
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me mail me at ripxjaws09@gmail.com
 
 <!---
